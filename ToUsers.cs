@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Module12.Lesson
 {
+    /// <summary>
+    /// Класс - обращение к клиентам
+    /// </summary>
     public class ToUsers
     {
         User[] users;

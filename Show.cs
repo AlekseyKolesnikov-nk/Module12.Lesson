@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Module12.Lesson
 {
+    /// <summary>
+    /// Класс - реклама для клиента без премиум-подписки
+    /// </summary>
     public class Show
     {
         public static void ShowAds()

@@ -26,7 +26,7 @@ namespace Module12.Lesson
             User user4 = new User();
             user4.Login = "qazqaz"; user4.Name = "Ильин И.И."; user4.IsPremium = true;
             toUsers.AddUser(3, user4);
-
+            
             toUsers.AddressingToUser();
         }
     }

@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace Module12.Lesson
 {
+    /// <summary>
+    /// Класс - пользователи
+    /// </summary>
     public class User
     {
         public string Login { get; set; }
